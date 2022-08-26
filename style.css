@@ -1,8 +1,8 @@
 /* Body styling */
 body {
-    background: #713e94;
+    background: #79b689;
     color: #fff;
-    font-family: Helvetica, Arial;
+    font-family: Papyrus, Garamond;
     font-size: 27px;
     font-weight: 300;
     line-height: 1.65em;
@@ -14,15 +14,15 @@ body {
   
   /* Heading Styles */
   h1 {
-    font-size: 60px;
+    font-size: 66px;
     color: #fff;
-    text-align: center;
+    text-align: right;
   }
   
   
   /* Game Directions */
   .description {
-    text-align: center;
+    text-align: right;
     margin: 80px auto 40px;
   }
   
@@ -79,7 +79,7 @@ body {
   }
   
   .highlight {
-    font-size: 18px;
+    font-size: 24px;
     line-height: 24px;
     margin-left: 30px;
     opacity: .8;
