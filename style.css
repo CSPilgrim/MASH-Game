@@ -63,9 +63,9 @@ body {
   }
   
   .choice-bucket input {
-    border: 0;
+    border: 6;
     border-radius: 6px;
-    color: #713e94;
+    color: #d3c71f;
     font-size: 18px;
     margin: 15px 4%;
     outline: 0;
