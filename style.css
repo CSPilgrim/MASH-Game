@@ -15,7 +15,7 @@ body {
   /* Heading Styles */
   h1 {
     font-size: 66px;
-    color: rgb(0, 0, 0);
+    color: black;
     text-align: right;
   }
   
@@ -30,7 +30,7 @@ body {
   /* Submit Button, Columns, Questions, and Inputs */
   .button-submit {
     background: transparent;
-    border: 3px solid #fff;
+    border: 3px solid orange;
     border-radius: 6px;
     color: #fff;
     cursor: pointer; 
